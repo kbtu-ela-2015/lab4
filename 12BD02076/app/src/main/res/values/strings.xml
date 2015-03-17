@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ELA-Lab3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="add_student">Add Student</string>
+	<string name="delete_students">Delete All Students</string>
+	<string name="edit">Edit</string>
+	<string name="delete">Delete</string>
+	<string name="sure">Are you sure?</string>
+	<string name="first_name">First Name</string>
+	<string name="last_name">Last Name</string>
+	<string name="faculty">Faculty</string>
+	<string name="students_list">Enterprise Level Applications\n Students List</string>
+</resources>
