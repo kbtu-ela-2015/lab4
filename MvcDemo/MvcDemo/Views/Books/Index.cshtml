@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MvcDemo.Models.BooksDB>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h1>Index</h1>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+    @Html.ActionLink("Go Home", "Index");
+</p>
+@RenderPage("~/Views/Shared/Somecrap.cshtml")
